@@ -32,7 +32,7 @@ To run the code in this repository, you'll need:
    ```bash
    git clone https://github.com/NaimParvez/chaining_langchain.git
    cd langchain-learning
-````
+   ````
 
 2. **Set up a virtual environment**
 
@@ -53,7 +53,9 @@ To run the code in this repository, you'll need:
    ```bash
    echo "OPENAI_API_KEY=your-api-key" > .env
    ```
----
+
+
+
 ## How to Use
 
 * Explore the `notebooks/` or `scripts/` folder for code corresponding to specific videos in the playlist.
