@@ -53,7 +53,7 @@ To run the code in this repository, you'll need:
    ```bash
    echo "OPENAI_API_KEY=your-api-key" > .env
    ```
-
+---
 ## How to Use
 
 * Explore the `notebooks/` or `scripts/` folder for code corresponding to specific videos in the playlist.
