@@ -58,8 +58,8 @@ To run the code in this repository, you'll need:
 
 ## How to Use
 
-* Explore the `notebooks/` or `scripts/` folder for code corresponding to specific videos in the playlist.
-* Each file is named to reflect the video or concept it covers (e.g., `01_basic_chain.ipynb` for the first tutorial).
+* Explore the `notebooks/` for code.
+* Each file is named to reflect the video or concept it covers (e.g., `langchain prompt` for the prompt concept).
 * Follow the comments in the code for explanations of LangChain components.
 * Run the scripts or notebooks after setting up the environment and API keys.
 
